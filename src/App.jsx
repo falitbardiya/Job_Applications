@@ -1,5 +1,5 @@
 
-import Card from '../components/card'
+import Card from './components/Card'
 const App = () => {
 
   const jobOpenings = [

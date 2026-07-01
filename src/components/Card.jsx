@@ -1,6 +1,6 @@
 import React from 'react'
 import {Bookmark} from 'lucide-react'
-const card = (props) => {
+const Card = (props) => {
   return (
         <div className="card">
         <div>
@@ -28,4 +28,4 @@ const card = (props) => {
   )
 }
 
-export default card
+export default Card
